@@ -1,0 +1,117 @@
+{
+	"basics": {
+		"name": "Divyansh Garg",
+		"label": "Student",
+		"picture": "https://media-exp1.licdn.com/dms/image/C4D03AQFUYcdg71C8Kg/profile-displayphoto-shrink_400_400/0/1625939039793?e=1632960000&v=beta&t=cqhzcUfFpvqzIv3HZwiwLLVt5a92Yn3HaJFs3wbocN4",
+		"email": "2020KUEC2018@iiitkota.ac.in",
+		"phone": "9660728966",
+		"summary": "Pursuing ECE at IIIT Kota'24 , I am a Cybersecurity Enthusiast, Penetration Tester and a web developer.",
+		"location": {
+			"address": "512, Sadar Bazaar, Mathura",
+			"postalCode": "281001",
+			"city": "Mathura",
+			"countryCode": "India",
+			"region": "Uttar Pradesh"
+		},
+		"profiles": [
+			{
+				"network": "Twitter",
+				"username": "handle",
+				"url": "https://www.twitter.com/_DGgrx_"
+			},
+			{
+				"network": "Github",
+				"username": "handle",
+				"url": "https://www.github.com/DGgrx/"
+			},
+			{
+				"network": "linkedin",
+				"username": "username",
+				"url": "https://www.linkedin.com/in/dggrx/"
+			},
+			{
+				"network": "Instagram",
+				"username": "handle",
+				"url": "https://instagram.com/_dopesickle_"
+			}
+		]
+	},
+	"internships": [
+		{
+			"organization": "Gurugram Police Cybersecurity Summer Internship",
+			"position": "Summer Intern",
+			"website": "https://gurgaon.haryanapolice.gov.in/cyber-crime",
+			"startDate": "2021-06-15",
+			"endDate": "2021-07-12",
+			"summary": "I was a cybersecurity summer intern at gurugram cybercell, under GPCSSI'21 mentored by Mr. Rakshit Tandon. We learned about various cyberattacks and cybercrimes by extensive real life solved case studies."
+		}
+	],
+	"volunteer": [
+		{
+			"organization": "Hopeeverywhere Jaipur",
+			"position": "Adcare",
+			"website": "https://www.hopeeverywhere.in/",
+			"startDate": "2020-12-15",
+			"endDate": "2021-04-15",
+			"summary": "I volunteered for teaching students in orphanges adopted by this organisation through online medium during this pandemic."
+		}
+	],
+	"education": [
+		{
+			"institution": "Indian Institute of Information technology,kota",
+			"area": "Engineering",
+			"studyType": "Bachelor (hons)",
+			"startDate": "2020-12-01 ",
+			"courses": [
+				"Electronics & Communication Engineering"
+			]
+		}
+	],
+	"skills": [
+		{
+			"level": "Tool Master",
+			"keywords": [
+				"Wireshark",
+				"Nmap",
+				"Burpsuite",
+				"Metasploit",
+				"Hashcat",
+				"General OSINT Tools"
+			]
+		},
+		{
+			"level": "Intermediate",
+			"keywords": [
+				"HTML",
+				"CSS",
+				"Javascript",
+				"React",
+				"C",
+				"Linux"
+			]
+		},
+		{
+			"level": "Beginner",
+			"keywords": [
+				"Bash Scripting",
+				"Python"
+			]
+		}
+	],
+	"interests": [
+		{
+			"name": "Sports",
+			"keywords": [
+				"Chess",
+				"Badminton"
+			]
+		},
+		{
+			"name": "Miscellaneous",
+			"keywords": [
+				"Speedcubing",
+				"Gaming"
+			]
+		}
+	]
+}
