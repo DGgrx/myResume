@@ -85,7 +85,8 @@
 				"HTML",
 				"CSS",
 				"Javascript",
-				"React",
+				"Node",
+				"Express",
 				"C",
 				"Linux"
 			]
@@ -94,7 +95,9 @@
 			"level": "Beginner",
 			"keywords": [
 				"Bash Scripting",
-				"Python"
+				"Python",
+				"React",
+				"MongoDB"
 			]
 		}
 	],
@@ -110,7 +113,9 @@
 			"name": "Miscellaneous",
 			"keywords": [
 				"Speedcubing",
-				"Gaming"
+				"Gaming",
+				"Singing",
+				"Guitar"
 			]
 		}
 	]
