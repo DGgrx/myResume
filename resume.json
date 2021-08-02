@@ -16,22 +16,22 @@
 		"profiles": [
 			{
 				"network": "Twitter",
-				"username": "handle",
+				"username": "_DGgrx_",
 				"url": "https://www.twitter.com/_DGgrx_"
 			},
 			{
 				"network": "Github",
-				"username": "handle",
+				"username": "DGgrx",
 				"url": "https://www.github.com/DGgrx/"
 			},
 			{
 				"network": "linkedin",
-				"username": "username",
+				"username": "dggrx",
 				"url": "https://www.linkedin.com/in/dggrx/"
 			},
 			{
 				"network": "Instagram",
-				"username": "handle",
+				"username": "_dopsickle_",
 				"url": "https://instagram.com/_dopesickle_"
 			}
 		]
